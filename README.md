@@ -7,9 +7,27 @@
 <a href="[github.com/DeanHarland](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJoOWlobXh1cGJvcXZkejVsNGxwZHQzZXpnb25uczZ6MG4xbzl2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif)">
   <img height="200" src="https://i.giphy.com/eSwGh3YK54JKU.webp"/>
 </a>
-
-
 </div>
+
+```yaml
+Name: Dean Harland
+Location: Cornwall
+
+Education:
+  [
+  Bsc Computing for Games
+  Msc Artifical Intelligence for Games
+  Full Stack Development for the AI Augmented Developer Bootcamp
+  ]
+
+  Fields of Interest:
+  [
+  Web Development
+  Game Development
+  Data Science
+  ]
+
+```
 
 
 <!--
