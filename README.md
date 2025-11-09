@@ -2,8 +2,12 @@
 
 <div align="center">
 
-# <p> Let's connect and have a chat! </p>
-
+# <p> Let's connect and have a chat!💬 </p>
+<a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/dean-harland-3716891a3/)">
+  
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<hr>
 <a href="[github.com/DeanHarland](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJoOWlobXh1cGJvcXZkejVsNGxwZHQzZXpnb25uczZ6MG4xbzl2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif)">
   <img height="200" src="https://i.giphy.com/eSwGh3YK54JKU.webp"/>
 </a>
