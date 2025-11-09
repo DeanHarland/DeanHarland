@@ -7,7 +7,7 @@
 <a href="[github.com/DeanHarland](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJoOWlobXh1cGJvcXZkejVsNGxwZHQzZXpnb25uczZ6MG4xbzl2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif)">
   <img height="200" src="https://i.giphy.com/eSwGh3YK54JKU.webp"/>
 </a>
-</div>
+
 
 ```yaml
 Name: Dean Harland
@@ -29,6 +29,23 @@ Education:
 
 ```
 
+<h2> 🚀 &nbsp;Some Tools I Have Used</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" height="45"/>             
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45" height="45"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"width="45" height="45" />
+<img src="https://play-lh.googleusercontent.com/VztZjCo2hAi-tbrIGCT1WBp-6Oc0-zHTh0kRcR1TJlvd9pJMEgmPSHgXUplqtpHcdJw=w240-h480-rw" width="45" height="45"/>                 
+</p> 
+</div>
 
 <!--
 **DeanHarland/DeanHarland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
