@@ -29,7 +29,7 @@ Education:
   Full Stack Development for the AI Augmented Developer Bootcamp
   ]
 
-  Fields of Interest:
+Fields of Interest:
   [
   Web Development
   Game Development
