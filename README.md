@@ -56,7 +56,6 @@ Fields of Interest:
 <img src="https://play-lh.googleusercontent.com/VztZjCo2hAi-tbrIGCT1WBp-6Oc0-zHTh0kRcR1TJlvd9pJMEgmPSHgXUplqtpHcdJw=w240-h480-rw" width="45" height="45"/>                 
 </p> 
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
