@@ -40,20 +40,23 @@ Fields of Interest:
 ```
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" height="45"/>             
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45" height="45"/>        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"width="45" height="45" />
-<img src="https://play-lh.googleusercontent.com/VztZjCo2hAi-tbrIGCT1WBp-6Oc0-zHTh0kRcR1TJlvd9pJMEgmPSHgXUplqtpHcdJw=w240-h480-rw" width="45" height="45"/>                 
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45" height="45"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45" height="45"/></td>
+    <td><img src="https://play-lh.googleusercontent.com/VztZjCo2hAi-tbrIGCT1WBp-6Oc0-zHTh0kRcR1TJlvd9pJMEgmPSHgXUplqtpHcdJw=w240-h480-rw" width="45" height="45"/></td>
+  </tr>
+</table>
 </p> 
 
 <p align="center">
